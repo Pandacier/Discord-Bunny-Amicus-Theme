@@ -123,12 +123,12 @@
             "#dcddde",
             "#000000"
         ],
-        "DEPRECATED_CARD_BG rm": [
+        "DEPRECATED_CARD_BG": [
             "#0a2848",
             "#dcddde",
             "#000000"
         ],
-        "DEPRECATED_CARD_EDITABLE_BG rm": [
+        "DEPRECATED_CARD_EDITABLE_BG": [
             "#0a2848",
             "#dcddde",
             "#000000"
@@ -173,27 +173,27 @@
             "#dcddde",
             "#000000"
         ],
-        "ELEVATION_HIGH": [
+        "ELEVATION_HIGH rm": [
             "#0a2848",
             "#dcddde",
             "#000000"
         ],
-        "ELEVATION_LOW": [
+        "ELEVATION_LOW rm": [
             "#0a2848",
             "#dcddde",
             "#000000"
         ],
-        "ELEVATION_MEDIUM": [
+        "ELEVATION_MEDIUM rm": [
             "#0a2848",
             "#dcddde",
             "#000000"
         ],
-        "ELEVATION_STROKE": [
+        "ELEVATION_STROKE rm": [
             "#0a2848",
             "#dcddde",
             "#000000"
         ],
-        "FOCUS_PRIMARY": [
+        "FOCUS_PRIMARY rm": [
             "#0a2848",
             "#dcddde",
             "#000000"
