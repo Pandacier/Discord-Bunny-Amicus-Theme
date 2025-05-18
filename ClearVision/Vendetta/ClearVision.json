@@ -8,87 +8,87 @@
       }
     ],
     "semanticColors": {
-        "ACTIVITY_CARD_BACKGROUND rm": [
+        "ACTIVITY_CARD_BACKGROUND": [
             "#fb4934",
             "#9d0006",
             "#fb4934"
         ],
-        "BACKGROUND_FLOATING rm": [
+        "BACKGROUND_FLOATING": [
             "#102b47",
             "#102b47",
             "#102b47"
         ],
-        "BACKGROUND_MENTIONED rm": [
+        "BACKGROUND_MENTIONED": [
             "#bdae931a",
             "#665c541a",
             "#bdae931a"
         ],
-        "BACKGROUND_MENTIONED_HOVER rm": [
+        "BACKGROUND_MENTIONED_HOVER": [
             "#bdae931a",
             "#665c541a",
             "#bdae931a"
         ],
-        "BACKGROUND_MESSAGE_HOVER rm": [
+        "BACKGROUND_MESSAGE_HOVER": [
             "#bdae931a",
             "#665c541a",
             "#bdae931a"
         ],
-        "BACKGROUND_MOBILE_PRIMARY rm": [
+        "BACKGROUND_MOBILE_PRIMARY": [
             "#061428",
             "#061428",
             "#061428"
         ],
-        "BACKGROUND_MOBILE_SECONDARY rm": [
+        "BACKGROUND_MOBILE_SECONDARY": [
             "#061428",
             "#061428",
             "#061428"
         ],
-        "BACKGROUND_ACCENT rm": [
+        "BACKGROUND_ACCENT": [
             "#86b4ea",
             "#86b4ea",
             "#86b4ea"
         ],
-        "BACKGROUND_MODIFIER_ACCENT rm": [
+        "BACKGROUND_MODIFIER_ACCENT": [
             "#114d917a",
             "#2678d67a",
             "#114d917a"
         ],
-        "BACKGROUND_MODIFIER_ACTIVE rm": [
+        "BACKGROUND_MODIFIER_ACTIVE": [
             "#2678d626",
             "#06142826",
             "#2678d626"
         ],
-        "BACKGROUND_MODIFIER_HOVER rm": [
+        "BACKGROUND_MODIFIER_HOVER": [
             "#2678d626",
             "#06142826",
             "#2678d626"
         ],
-        "BACKGROUND_MODIFIER_SELECTED rm": [
+        "BACKGROUND_MODIFIER_SELECTED": [
             "#2678d699",
             "#2678d699",
             "#2678d699"
         ],
-        "BACKGROUND_NESTED_FLOATING rm": [
+        "BACKGROUND_NESTED_FLOATING": [
             "#0a2848",
             "#dcddde",
             "#000000"
         ],
-        "BACKGROUND_PRIMARY rm": [
+        "BACKGROUND_PRIMARY": [
             "#061428",
             "#061428",
             "#061428"
         ],
-        "BACKGROUND_SECONDARY rm": [
+        "BACKGROUND_SECONDARY": [
             "#242437",
             "#242437",
             "#242437"
         ],
-        "BACKGROUND_SECONDARY_ALT rm": [
+        "BACKGROUND_SECONDARY_ALT": [
             "#000000",
             "#000000",
             "#000000"
         ],
-        "BACKGROUND_TERTIARY rm": [
+        "BACKGROUND_TERTIARY": [
             "#04122e",
             "#04122e",
             "#04122e"
@@ -123,12 +123,12 @@
             "#dcddde",
             "#000000"
         ],
-        "DEPRECATED_CARD_BG": [
+        "DEPRECATED_CARD_BG rm": [
             "#0a2848",
             "#dcddde",
             "#000000"
         ],
-        "DEPRECATED_CARD_EDITABLE_BG": [
+        "DEPRECATED_CARD_EDITABLE_BG rm": [
             "#0a2848",
             "#dcddde",
             "#000000"
