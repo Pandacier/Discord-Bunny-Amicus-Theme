@@ -28,10 +28,15 @@
             "#665c541a",
             "#bdae931a"
         ],
-        "BACKGROUND_MOBILE_PRIMARY": [
+        "BACKGROUND_MOBILE_PRIMARY...": [
             "#061428",
             "#061428",
             "#061428"
+        ],
+	"BACKGROUND_MOBILE_PRIMARY": [
+            "#010108",
+            "#010108",
+            "#010108"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#061428",
