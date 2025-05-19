@@ -88,6 +88,7 @@
             "#04122e",
             "#04122e"
         ],
+	"BORDER_FAINT": [ "#494C69" ], 
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#0a2848",
             "#dcddde",
