@@ -38,10 +38,15 @@
             "#061428",
             "#061428"
         ],
-        "BACKGROUND_ACCENT": [
+        "BACKGROUND_ACCENT....": [
             "#86b4ea",
             "#86b4ea",
             "#86b4ea"
+        ],
+	"BACKGROUND_ACCENT": [
+            "#4684fa",
+            "#4684fa",
+            "#4684fa"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#114d917a",
