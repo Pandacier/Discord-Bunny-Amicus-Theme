@@ -29,14 +29,14 @@
             "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#161A1E",
-            "#161A1E",
-            "#161A1E"
+            "#141618",
+            "#141618",
+            "#141618"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#161A1E",
-            "#161A1E",
-            "#161A1E"
+            "#141618",
+            "#141618",
+            "#141618"
         ],
         "BACKGROUND_ACCENT": [
             "#86b4ea",
@@ -45,12 +45,12 @@
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#114d917a",
-            "#161A1E7a",
+            "#1416187a",
             "#114d917a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#2678d626",
-            "#161A1E26",
+            "#14161826",
             "#2678d626"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
